@@ -1,4 +1,4 @@
-# Computer Graphics programs using OpenGL
+# Simple geometric illustrations using OpenGL
 
 ## Demonstrating the following simple figures:
 
